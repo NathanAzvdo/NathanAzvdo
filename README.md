@@ -1,6 +1,6 @@
 ### Olá mundo! 
 
-<!--
+
 Estudante do Instituto Federal Rio de Janeiro, busco aprimorar meus conhecimentos em java.
 
 -Futuro Analista.
@@ -10,4 +10,3 @@ Estudante do Instituto Federal Rio de Janeiro, busco aprimorar meus conhecimento
 -Conhecimento em POO.
 -Aluno monitor na matéria de programação.
 
--->

@@ -12,7 +12,7 @@ Futuro Analista.
 -Conhecimento em Bootstrap.<br>
 -Java.<br>
 - Familiaridade com POO.<br>
-<br><hr>
+
 ## Estou aprendendo:
 <br>
 -linux.<br>

@@ -6,7 +6,7 @@
 -Desenvolvendo como TCC um jogo destinado ao ensino de lógica de programação para crianças e adolescentes.
 <br>
 -Desenvolvendo um projeto de pesquisa para disponibilizar um livro de sociologia em versão web.<br>
-Futuro Analista.
+-Futuro Analista. :)
 ## Ferramentas e Tecnologias:
 <br>
 -Html,css e js.<br>

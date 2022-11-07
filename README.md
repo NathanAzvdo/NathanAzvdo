@@ -2,7 +2,7 @@
 
 
 Estudante do Instituto Federal Rio de Janeiro, busco aprimorar meus conhecimentos em java.<br>
-Aluno monitor da matéria de programação.
+Aluno monitor da matéria de programação.<br>
 Desenvolvendo como TCC um jogo destinado ao ensino de lógica de programação para crianças e adolescentes.
 <br>
 Futuro Analista.

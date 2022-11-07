@@ -8,16 +8,16 @@ Desenvolvendo como TCC um jogo destinado ao ensino de lógica de programação p
 Futuro Analista.
 ## Ferramentas e Tecnologias:
 <br>
-# -Html,css e js.
-# -Conhecimento em Bootstrap.
-# -Java.
-# - Familiaridade com POO.
+-Html,css e js.<br>
+-Conhecimento em Bootstrap.<br>
+-Java.<br>
+- Familiaridade com POO.<br>
 <br><hr>
 ## Estou aprendendo:
 <br>
-# -linux.
-# -Banco de dados(Mysql).
-# -Git e github
+-linux.<br>
+-Banco de dados(Mysql).<br>
+-Git e github<br>
 
 
 

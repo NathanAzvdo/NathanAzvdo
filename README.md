@@ -18,7 +18,7 @@ Futuro Analista.
 -linux.<br>
 -Banco de dados(Mysql).<br>
 -Git e github<br>
-
+-Python(Python Essentials - Cisco)<br>
 
 
 

@@ -19,7 +19,7 @@
 -linux.<br>
 -Banco de dados(Mysql).<br>
 -Git e github<br>
--Python(Python Essentials - Cisco)<br>
+-Python(Python Essentials I e II - Cisco)<br>
 
 
 

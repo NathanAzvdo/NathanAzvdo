@@ -1,7 +1,7 @@
 ### Olá mundo! 
 
 
--Estudante do Instituto Federal Rio de Janeiro, busco aprimorar meus conhecimentos em java.<br>
+-Estudante do Instituto Federal Rio de Janeiro, busco aprimorar meus conhecimentos no backend.<br>
 -Aluno monitor da matéria de programação.<br>
 -Desenvolvendo como TCC um jogo destinado ao ensino de lógica de programação para crianças e adolescentes.<br>
 -Desenvolvendo um projeto de pesquisa para disponibilizar um livro de sociologia em versão web.(Disponível no repositório SJXXI)<br>

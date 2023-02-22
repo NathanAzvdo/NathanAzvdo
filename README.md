@@ -10,7 +10,7 @@
 <br>
 -Html,css e js.<br>
 -Conhecimento em Bootstrap.<br>
--Java.<br>
+-Java(mySQL).<br>
 -Java Swing.<br>
 -Familiaridade com POO.<br>
 -Familiaridade com linux.<br>

@@ -14,14 +14,13 @@
 -Java Swing.<br>
 -Familiaridade com POO.<br>
 -Familiaridade com linux.<br>
+-Banco de dados(Mysql).
 
 ## Estou aprendendo:
 
 <br>
--Banco de dados(Mysql).<br>
--Spring boot.<br>
 -Git e github<br>
--PHP<br>
+-NodeJS<br>
 
 
 

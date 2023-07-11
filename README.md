@@ -12,15 +12,17 @@
 -Conhecimento em Bootstrap.<br>
 -Java(mySQL).<br>
 -Java Swing.<br>
--Familiaridade com POO.<br>
+-POO.<br>
 -Familiaridade com linux.<br>
--Banco de dados(Mysql).
+-Banco de dados Relacional(Mysql).
+-Php<br>
 
 ## Estou aprendendo:
 
 <br>
 -Git e github<br>
--Php<br>
+-NodeJs<br>
+-Express<br>
 
 
 

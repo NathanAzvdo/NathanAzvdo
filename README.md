@@ -14,15 +14,15 @@
 -Java Swing.<br>
 -POO.<br>
 -Familiaridade com linux.<br>
--Banco de dados Relacional(Mysql).
+-Banco de dados Relacional(Mysql).<br>
 -Php<br>
-
+-Git e github<br>
 ## Estou aprendendo:
 
 <br>
--Git e github<br>
 -NodeJs<br>
 -Express<br>
+-MongoDb<br>
 
 
 

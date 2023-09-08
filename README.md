@@ -27,7 +27,8 @@
 
 
 
-
+## Estatísticas:
+<br><br>
 <div>
 <a href="https://github.com/NathanAzvdo">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanAzvdo&layout=compact&langs_count=7&theme=dracula"/>

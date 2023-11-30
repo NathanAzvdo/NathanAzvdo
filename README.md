@@ -16,20 +16,10 @@
 -Banco de dados Relacional(Mysql).<br>
 -Php<br>
 -Git e github<br>
--NodeJs<br>
--Express<br>
 
 ### Estou aprendendo:
 
 <br>
--Asp .net mvc<br>
--Entity<br>
+--NodeJs<br>
+-Mongoose<br>
 
-
-## Estatísticas:
-<br><br>
-<div>
-<a href="https://github.com/NathanAzvdo">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanAzvdo&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=NathanAzvdo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>

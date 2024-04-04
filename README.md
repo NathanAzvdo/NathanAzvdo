@@ -10,10 +10,9 @@
 ## Ferramentas e Tecnologias:
 <br>
 -Conhecimento em Bootstrap.<br>
--Java(javaSwing).<br>
+-Java.<br>
 -Familiaridade com linux.<br>
 -Mysql.<br>
 -noSQL<br>
 -Git e github<br>
 -NodeJs<br>
--PHP.

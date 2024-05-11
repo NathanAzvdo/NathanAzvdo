@@ -17,6 +17,5 @@
 -Git e github<br>
 -NodeJs<br>
 <hr><br>
-<div style="text-align:center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanAzvdo&layout=compact&hide=html,css)
-</div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanAzvdo&layout=pie&hide=html,css)

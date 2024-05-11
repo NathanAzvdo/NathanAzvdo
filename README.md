@@ -17,4 +17,4 @@
 -Git e github<br>
 -NodeJs<br>
 <hr><br>
-[![Top Linguagens(https://github-readme-stats.vercel.app/api/top-langs/?username=NathanAzvdo&layout=compact)](https://github.com/NathanAzvdo)
+![Top Linguagens](https://img.shields.io/github/languages/top/NathanAzvdo/)

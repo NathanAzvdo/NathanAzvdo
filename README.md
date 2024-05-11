@@ -20,6 +20,6 @@
 
   
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanAzvdo&layout=pie&hide=html,css)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanAzvdo&layout=pie&hide=html,css&langs_count=7)
 
 </div>

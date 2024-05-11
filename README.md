@@ -16,6 +16,10 @@
 -noSQL<br>
 -Git e github<br>
 -NodeJs<br>
-<hr><br>
+<hr><br><div style="text-align:center;">
+
+  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanAzvdo&layout=pie&hide=html,css)
+
+</div>

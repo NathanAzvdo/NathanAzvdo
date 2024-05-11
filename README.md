@@ -18,4 +18,4 @@
 -NodeJs<br>
 <hr><br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanAzvdo&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanAzvdo&layout=compact&hide=html,css)

@@ -9,18 +9,10 @@
 
 ## Ferramentas e Tecnologias:
 <br>
--Conhecimento em Bootstrap.<br>
 -Java.<br>
 -Familiaridade com linux.<br>
 -Mysql.<br>
 -noSQL<br>
 -Git e github<br>
 -NodeJs<br>
-<hr><br><div style="text-align:center;">
-
-  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanAzvdo&layout=pie&hide=html,css,handlebars,Jupyter_Notebook)
-
-
-</div>
+<hr><br>

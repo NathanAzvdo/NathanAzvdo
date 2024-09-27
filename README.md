@@ -15,4 +15,5 @@
 -noSQL<br>
 -Git e github<br>
 -NodeJs<br>
+-azure
 <hr><br>

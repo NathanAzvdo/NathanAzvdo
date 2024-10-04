@@ -11,7 +11,7 @@
 ## Ferramentas e Tecnologias:
 <br>
 -Java.<br>
--Familiaridade com linux.<br>
+-Linux.<br>
 -Mysql.<br>
 -noSQL<br>
 -Git e github<br>

@@ -19,4 +19,4 @@
 
 <hr><br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanAzvdo&layout=compact&hide=HTML,CSS,handlebars)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanAzvdo&layout=compact&hide=HTML,CSS,handlebars,php)
